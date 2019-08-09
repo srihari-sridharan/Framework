@@ -20,10 +20,9 @@ namespace Framework.Base
     {
         /// <summary>
         ///     This creates one static IApplicationContext instance per thread.
-        ///     This will be alive till it is disposed. Once disposed it is not longer available.
-        ///     Instead of disposing the usage should be inclined towards calling the Start() and Stop() to ensure that the static
-        ///     entity is maintained
-        ///     but is cleared after use.
+        ///     This will be alive till it is disposed. Once disposed it is no longer available.
+        ///     Instead of disposing the usage should be inclined towards calling the Start()
+        ///     and Stop() to ensure that the static entity is maintained but is cleared after use.
         ///     This instance is visible only to the current thread.
         ///     The object should be visible only to the current thread.
         ///     Each thread will make sure that it initializes and flushes at the beginning and end

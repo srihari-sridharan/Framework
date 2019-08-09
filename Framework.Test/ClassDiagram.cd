@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Framework.Test.ApplicationTest" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApplicationTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.BaseTest" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAADgAAAAAAAAAAAAAAgAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>BaseTest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Framework.Test.Base.Context.ApplicationContextTest" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Base\Context\ApplicationContextTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Base.Context.ServiceContextTest" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAABAAQAAAAAAAAAIAAIAACAAAAEAgAAAA=</HashCode>
+      <FileName>Base\Context\ServiceContextTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Base.Context.TransactionContextTest" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAgAAAAAAAAAAAABAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Context\TransactionContextTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Base.Context.UserContextTest" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgQACAAAACAAAAAggAAQAAAAIAAAAAAAAAEABAA=</HashCode>
+      <FileName>Base\Context\UserContextTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Constants" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Infrastructure\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.ContactDao" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAEAACAABAABAAAQAAAAAAAEAAAgAAgAAAIAAAIA=</HashCode>
+      <FileName>Infrastructure\Implementations\ContactDao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.ContactsApplication">
+    <Position X="16.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Implementations\ContactsApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.ContactsDbContext" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAAAABEAAAAIAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Implementations\ContactsDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.ContactService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQCBCAAAAAAAAAAAIAAAAAAAAAAgAAAAABIAAA=</HashCode>
+      <FileName>Infrastructure\Implementations\ContactService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.ContactsSet" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Implementations\ContactsSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.StubDbAsyncEnumerable&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Implementations\StubDbAsyncEnumerable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.StubDbAsyncEnumerator&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAACAgABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Implementations\StubDbAsyncEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.StubDbAsyncQueryProvider&lt;TEntity&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAAAAAAACAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Infrastructure\Implementations\StubDbAsyncQueryProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Implementations.StubDbSet&lt;TEntity&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAACAAgAAAAAABAAAAIFAAEAEAAAYAAAAgAA=</HashCode>
+      <FileName>Infrastructure\Implementations\StubDbSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Model.Contact" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAAAAAAQAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Infrastructure\Model\Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Infrastructure.Tests.ContactServiceTest" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAABAAAAAAARAAAAAAgAAABAAA=</HashCode>
+      <FileName>Infrastructure\Tests\ContactServiceTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Utils.Base36ConverterTests" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAEAAAAAAIAAAAAAAAIAAAABAAAAAAAAgAAA=</HashCode>
+      <FileName>Utils\Base36ConverterTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Utils.StringUtilsTest" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAAAAAAAAAAAAAAgAAAAAAgAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\StringUtilsTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework.Test.Utils.UnityUtilsTest" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAIAAABAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\UnityUtilsTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Framework.Test.Infrastructure.Interfaces.IContactDao" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAEAACAABAABAAAQAAAAAAAEAAAgAAgAAAAAAAIA=</HashCode>
+      <FileName>Infrastructure\Interfaces\IContactDao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Test.Infrastructure.Interfaces.IContactService" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQCBCAAAAAAAAAAAIAAAAAAAAAAgAAAAABIAAA=</HashCode>
+      <FileName>Infrastructure\Interfaces\IContactService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

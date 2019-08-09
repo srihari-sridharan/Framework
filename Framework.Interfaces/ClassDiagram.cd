@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="Framework.Interfaces.Adapters.IAdapter" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adapters\IAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Containers.IApplicationContainer" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQCAAAAAAAAAEAAAAAACAQAAAACAAAAAAgAACAAgAkA=</HashCode>
+      <FileName>Containers\IApplicationContainer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Context.IApplicationContext" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAKAAA=</HashCode>
+      <FileName>Context\IApplicationContext.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Context.IServiceContext" Collapsed="true">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQACAAAAAAAAAAAAABAAAAAEAAAAAAAAgAIAAAA=</HashCode>
+      <FileName>Context\IServiceContext.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Context.ITransactionContext" Collapsed="true">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Context\ITransactionContext.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Context.IUserContext" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAEAAAAAAAAgAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Context\IUserContext.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataAccess.IDao" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\IDao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataAccess.IDataMapper" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\IDataMapper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataSources.IDataSource" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADQAAEAAAAAAAAAAAACAAAAAAAEAAAAAAgAAIAAAAIA=</HashCode>
+      <FileName>DataSources\IDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataSources.IDataSourceAsync" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>DataSources\IDataSourceAsync.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataSources.IEFDataSource" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>DataSources\IEFDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataSources.IMongoDataSource" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>DataSources\IMongoDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataSources.ISqlDataSource" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAEAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>DataSources\ISqlDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.DataSources.ITransactionProvider" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgACAAAAABAAAAAAABSAAAAAAAAAAAA=</HashCode>
+      <FileName>DataSources\ITransactionProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Modules.ILibrary" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modules\ILibrary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Modules.ILogger" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAJAAAAAIAAAAAIAgA=</HashCode>
+      <FileName>Modules\ILogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Framework.Interfaces.Services.IService" Collapsed="true">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>Services\IService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
