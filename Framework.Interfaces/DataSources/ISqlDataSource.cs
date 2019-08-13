@@ -1,8 +1,4 @@
-﻿// <copyright file="ISqlDataSource.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Data.SqlClient;
 
 namespace Framework.Interfaces.DataSources

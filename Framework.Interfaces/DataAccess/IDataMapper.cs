@@ -1,8 +1,4 @@
-﻿// <copyright file="IDataMapper.cs" company="">
-//
-// </copyright>
-
-namespace Framework.Interfaces.DataAccess
+﻿namespace Framework.Interfaces.DataAccess
 {
     /// <summary>
     ///     Interface for mapping data from one entity to another.

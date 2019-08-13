@@ -1,8 +1,4 @@
-﻿// <copyright file="BaseTest.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using Framework.Base;
 using Framework.Interfaces.Context;
 using Framework.Test.Infrastructure.Implementations;

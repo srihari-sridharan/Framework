@@ -1,8 +1,4 @@
-﻿// <copyright file="UserContextTest.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using Xunit;
 
 namespace Framework.Test.Base.Context

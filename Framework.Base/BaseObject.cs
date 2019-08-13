@@ -1,8 +1,4 @@
-﻿// <copyright file="BaseObject.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 using Framework.Interfaces.Modules;

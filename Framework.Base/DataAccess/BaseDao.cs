@@ -1,8 +1,4 @@
-﻿// <copyright file="BaseDao.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Framework.Entities.Interfaces;
 using Framework.Interfaces.DataAccess;
 using Framework.Interfaces.DataSources;

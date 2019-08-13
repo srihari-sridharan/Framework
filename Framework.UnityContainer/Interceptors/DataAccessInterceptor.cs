@@ -1,8 +1,4 @@
-﻿// <copyright file="DataAccessInterceptor.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity.Validation;
 using Framework.Base;

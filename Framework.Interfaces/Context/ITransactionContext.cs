@@ -1,8 +1,4 @@
-﻿// <copyright file="ITransactionContext.cs" company="">
-//
-// </copyright>
-
-namespace Framework.Interfaces.Context
+﻿namespace Framework.Interfaces.Context
 {
     /// <summary>
     ///     Interface for the transaction context.

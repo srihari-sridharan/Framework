@@ -1,8 +1,4 @@
-﻿// <copyright file="IApplicationContainer.cs" company="">
-//
-// </copyright>
-
-using System.Diagnostics.CodeAnalysis;
+﻿using System.Diagnostics.CodeAnalysis;
 using Framework.Interfaces.Adapters;
 using Framework.Interfaces.DataAccess;
 using Framework.Interfaces.DataSources;

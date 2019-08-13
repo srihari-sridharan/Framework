@@ -1,8 +1,4 @@
-﻿// <copyright file="IApplicationContext.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Framework.Interfaces.Context
 {

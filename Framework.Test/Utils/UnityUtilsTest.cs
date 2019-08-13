@@ -1,8 +1,4 @@
-﻿// <copyright file="UnityUtilsTest.cs" company="">
-//
-// </copyright>
-
-using System.Linq;
+﻿using System.Linq;
 using Framework.Utils;
 using Xunit;
 

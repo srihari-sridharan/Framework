@@ -1,8 +1,4 @@
-﻿// <copyright file="Entity.cs" company="">
-//
-// </copyright>
-
-using Framework.Entities.Interfaces;
+﻿using Framework.Entities.Interfaces;
 
 namespace Framework.Entities.Implementation
 {

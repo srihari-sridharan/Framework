@@ -1,8 +1,4 @@
-﻿// <copyright file="BaseException.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Runtime.Serialization;

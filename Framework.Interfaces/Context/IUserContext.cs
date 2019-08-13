@@ -1,8 +1,4 @@
-﻿// <copyright file="IUserContext.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace Framework.Interfaces.Context

@@ -1,8 +1,4 @@
-﻿// <copyright file="IAuditable.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 
 namespace Framework.Entities.Interfaces
 {

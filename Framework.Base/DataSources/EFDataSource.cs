@@ -1,8 +1,4 @@
-﻿// <copyright file="EFDataSource.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -10,7 +6,7 @@ using System.Threading.Tasks;
 using Framework.Entities.Implementation;
 using Framework.Interfaces.DataSources;
 
-namespace Framework.Base.DataSources.Implementation
+namespace Framework.Base.DataSources
 {
     /// <summary>
     ///     Use EntityDefinitionContext to instantiate the Ds with references to your project/ module

@@ -1,8 +1,4 @@
-﻿// <copyright file="IMongoDataSource.cs" company="">
-//
-// </copyright>
-
-using System.Linq;
+﻿using System.Linq;
 
 namespace Framework.Interfaces.DataSources
 {

@@ -1,8 +1,4 @@
-﻿// <copyright file="ILogger.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 
 namespace Framework.Interfaces.Modules
 {

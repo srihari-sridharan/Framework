@@ -1,8 +1,4 @@
-﻿// <copyright file="ServiceContextTest.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Framework.Base;
 using Framework.Interfaces.Context;
 using Xunit;

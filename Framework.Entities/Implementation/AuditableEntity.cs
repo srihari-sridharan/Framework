@@ -1,8 +1,4 @@
-﻿// <copyright file="AuditableEntity.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 using Framework.Entities.Interfaces;
 

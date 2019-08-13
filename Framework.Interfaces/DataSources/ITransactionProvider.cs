@@ -1,8 +1,4 @@
-﻿// <copyright file="ITransactionProvider.cs" company="">
-//
-// </copyright>
-
-namespace Framework.Interfaces.DataSources
+﻿namespace Framework.Interfaces.DataSources
 {
     /// <summary>
     ///     This is an optional implementation that can be implemented when

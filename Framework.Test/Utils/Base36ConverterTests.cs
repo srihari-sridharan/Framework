@@ -1,8 +1,4 @@
-﻿// <copyright file="Base36ConverterTests.cs" company="">
-//
-// </copyright>
-
-using Framework.Utils;
+﻿using Framework.Utils;
 using Xunit;
 
 namespace Framework.Test.Utils

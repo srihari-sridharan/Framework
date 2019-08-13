@@ -1,8 +1,4 @@
-﻿// <copyright file="IService.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Framework.Interfaces.DataAccess;
 
 namespace Framework.Interfaces.Services

@@ -1,8 +1,4 @@
-﻿// <copyright file="Constants.cs" company="">
-//
-// </copyright>
-
-namespace Framework.Base
+﻿namespace Framework.Base
 {
     /// <summary>
     ///     Represents the constants.

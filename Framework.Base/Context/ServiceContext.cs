@@ -1,8 +1,4 @@
-﻿// <copyright file="ServiceContext.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Framework.Interfaces.Context;
 
 namespace Framework.Base.Context

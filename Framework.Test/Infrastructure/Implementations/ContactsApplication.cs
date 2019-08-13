@@ -1,9 +1,5 @@
-﻿// <copyright file="ContactsApplication.cs" company="">
-//
-// </copyright>
-
-using Framework.Base;
-using Framework.Base.DataSources.Implementation;
+﻿using Framework.Base;
+using Framework.Base.DataSources;
 
 namespace Framework.Test.Infrastructure.Implementations
 {

@@ -1,8 +1,4 @@
-﻿// <copyright file="IDataSourceAsync.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Threading.Tasks;
 using Framework.Entities.Implementation;

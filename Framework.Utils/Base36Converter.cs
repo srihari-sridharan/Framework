@@ -1,8 +1,4 @@
-﻿// <copyright file="Base36Converter.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
 using System.Text;

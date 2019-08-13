@@ -1,8 +1,4 @@
-﻿// <copyright file="TransactionContext.cs" company="">
-//
-// </copyright>
-
-using Framework.Interfaces.Context;
+﻿using Framework.Interfaces.Context;
 
 namespace Framework.Base.Context
 {

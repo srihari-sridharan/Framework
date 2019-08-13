@@ -1,14 +1,10 @@
-﻿// <copyright file="Log4NetLogger.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using Framework.Interfaces.Modules;
 using log4net;
 using log4net.Config;
 
-namespace Framework.Modules.Logging.Log4Net
+namespace Framework.Logging.Log4Net
 {
     /// <summary>
     ///     Log4Net logging implementation. To be replaced with chosen logging framework.

@@ -1,8 +1,4 @@
-﻿// <copyright file="TransactionContextTest.cs" company="">
-//
-// </copyright>
-
-using Xunit;
+﻿using Xunit;
 
 namespace Framework.Test.Base.Context
 {

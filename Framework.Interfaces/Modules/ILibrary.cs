@@ -1,8 +1,4 @@
-﻿// <copyright file="ILibrary.cs" company="">
-//
-// </copyright>
-
-using System.Diagnostics.CodeAnalysis;
+﻿using System.Diagnostics.CodeAnalysis;
 
 namespace Framework.Interfaces.Modules
 {

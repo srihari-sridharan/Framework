@@ -1,8 +1,4 @@
-﻿// <copyright file="IBaseEntity.cs" company="">
-//
-// </copyright>
-
-namespace Framework.Entities.Interfaces
+﻿namespace Framework.Entities.Interfaces
 {
     /// <summary>
     ///     Interface for base entity.

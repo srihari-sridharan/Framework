@@ -1,8 +1,4 @@
-﻿// <copyright file="ApplicationTest.cs" company="">
-//
-// </copyright>
-
-using Framework.Base;
+﻿using Framework.Base;
 using Framework.Test.Infrastructure.Implementations;
 using Xunit;
 

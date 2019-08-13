@@ -1,8 +1,4 @@
-﻿// <copyright file="ServiceInterceptor.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Transactions;
 using Framework.Base;

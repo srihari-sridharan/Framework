@@ -1,8 +1,4 @@
-﻿// <copyright file="IEFDataSource.cs" company="">
-//
-// </copyright>
-
-using System.Linq;
+﻿using System.Linq;
 using Framework.Entities.Implementation;
 
 namespace Framework.Interfaces.DataSources

@@ -1,8 +1,4 @@
-﻿// <copyright file="StringUtils.cs" company="">
-//
-// </copyright>
-
-using System.Globalization;
+﻿using System.Globalization;
 
 namespace Framework.Utils
 {

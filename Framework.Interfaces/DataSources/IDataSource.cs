@@ -1,8 +1,4 @@
-﻿// <copyright file="IDataSource.cs" company="">
-//
-// </copyright>
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using Framework.Entities.Implementation;
 

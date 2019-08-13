@@ -1,14 +1,10 @@
-﻿// <copyright file="Application.cs" company="">
-//
-// </copyright>
-
-using System;
+﻿using System;
 using System.Threading;
 using Framework.Base.Context;
 using Framework.Interfaces.Containers;
 using Framework.Interfaces.Context;
 using Framework.Interfaces.Modules;
-using Framework.Modules.Logging.Log4Net;
+using Framework.Logging.Log4Net;
 
 namespace Framework.Base
 {
